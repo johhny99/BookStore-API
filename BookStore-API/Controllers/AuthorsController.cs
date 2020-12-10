@@ -193,7 +193,7 @@ namespace BookStore_API.Controllers
                 var isSuccess = await _authorRepository.Delete(author);
                 if (!isSuccess)
                 {
-                    return InternalError($"Author Delete failed");
+                    return InternalError($"Author Delete failed ");
                 }
                 _logger.LogWarn($"Author with id : {id} successfully deleted");
                 return NoContent();
