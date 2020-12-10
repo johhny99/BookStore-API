@@ -1,0 +1,43 @@
+2020-12-10 12:04:28.6922 INFO Author submission attempted
+2020-12-10 12:04:35.8108 INFO Author created
+2020-12-10 12:04:51.0700 INFO Attempted Get All Authors
+2020-12-10 12:04:52.1557 INFO Successfully got all Authors
+2020-12-10 13:33:20.4562 INFO Attempted Get All Authors
+2020-12-10 13:33:24.1633 INFO Successfully got all Authors
+2020-12-10 13:38:31.7667 INFO Author Update attempted
+2020-12-10 13:38:31.8344 WARN Author Update failed with bad data
+2020-12-10 13:38:38.4284 INFO Author Update attempted
+2020-12-10 13:38:38.7889 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-12-10 13:39:28.7355 INFO Author Update attempted
+2020-12-10 13:40:48.4404 INFO Author Update attempted
+2020-12-10 13:40:58.3806 INFO Attempted Get All Authors
+2020-12-10 13:40:58.8752 INFO Successfully got all Authors
+2020-12-10 13:42:09.1918 INFO Author submission attempted
+2020-12-10 13:42:09.6695 INFO Author created
+2020-12-10 13:42:15.0977 INFO Attempted Get All Authors
+2020-12-10 13:42:15.1244 INFO Successfully got all Authors
+2020-12-10 13:42:44.0455 INFO Author Update attempted
+2020-12-10 13:42:48.1217 INFO Attempted Get All Authors
+2020-12-10 13:42:48.1431 INFO Successfully got all Authors
+2020-12-10 14:03:13.1908 INFO Author Deletion attempted
+2020-12-10 14:03:17.2584 WARN Author with id : 2 successfully deleted
+2020-12-10 14:03:21.9287 INFO Attempted Get All Authors
+2020-12-10 14:03:22.1295 INFO Successfully got all Authors
+2020-12-10 14:14:18.9941 INFO Attempted Get All Authors
+2020-12-10 14:14:21.7580 INFO Successfully got all Authors
+2020-12-10 14:14:30.2208 INFO Author submission attempted
+2020-12-10 14:14:30.7926 INFO Author created
+2020-12-10 14:15:07.6426 INFO Author Update attempted
+2020-12-10 14:15:11.1199 INFO Attempted Get All Authors
+2020-12-10 14:15:11.1800 INFO Successfully got all Authors
+2020-12-10 14:15:35.6359 INFO Author Update attempted
+2020-12-10 14:15:39.5549 INFO Attempted Get All Authors
+2020-12-10 14:15:39.5972 INFO Successfully got all Authors
+2020-12-10 14:15:48.8894 INFO Author Deletion attempted
+2020-12-10 14:15:49.3281 WARN Author with id : 3 successfully deleted
+2020-12-10 14:15:52.8302 INFO Attempted Get All Authors
+2020-12-10 14:15:52.9093 INFO Successfully got all Authors
