@@ -1,0 +1,62 @@
+2020-12-14 15:19:41.7371 INFO Books - GetBooks: Attempted Call
+2020-12-14 15:19:46.4469 INFO Books - GetBooks: Successful
+2020-12-14 15:29:23.7213 INFO Books - Create: Create Attempted
+2020-12-14 15:29:30.5414 ERROR Books - Create: An error occurred while updating the entries. See the inner exception for details. - Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Books_Authors". The conflict occurred in database "BookStore", table "dbo.Authors", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:8ad66694-500a-4415-837a-7e06527c1dd7
+Error Number:547,State:0,Class:16
+2020-12-14 15:30:12.0796 INFO Authors - GetAuthors: Attempted Call
+2020-12-14 15:30:13.2577 INFO Authors - GetAuthors: Successful
+2020-12-14 15:30:23.0089 INFO Books - Create: Create Attempted
+2020-12-14 15:30:23.2467 INFO Books - Create: Creation was successful
+2020-12-14 15:30:23.2467 INFO Books - Create: BookStore_API.Data.Book
+2020-12-14 15:30:34.2374 INFO Books - GetBooks: Attempted Call
+2020-12-14 15:30:34.6632 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-12-14 15:34:21.0703 INFO Books - GetBooks: Attempted Call
+2020-12-14 15:34:21.7121 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-12-14 15:41:50.5420 INFO Books - GetBook: Attempted Call for id: 2
+2020-12-14 15:41:51.3364 ERROR Books - GetBook: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-12-14 15:47:45.5590 INFO Books - GetBook: Attempted Call for id: 2
+2020-12-14 15:47:50.0673 ERROR Books - GetBook: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-12-14 15:47:56.7714 INFO Books - GetBooks: Attempted Call
+2020-12-14 15:47:57.4110 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-12-14 15:48:40.1066 INFO Books - Create: Create Attempted
+2020-12-14 15:48:42.7043 INFO Books - Create: Creation was successful
+2020-12-14 15:48:42.7046 INFO Books - Create: BookStore_API.Data.Book
+2020-12-14 15:48:48.6045 INFO Books - GetBook: Attempted Call for id: 3
+2020-12-14 15:48:49.0989 ERROR Books - GetBook: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-12-14 15:52:10.3944 INFO Books - GetBook: Attempted Call for id: 3
+2020-12-14 15:52:14.4134 ERROR Books - GetBook: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-12-14 15:53:49.1988 INFO Books - GetBook: Attempted Call for id: 3
+2020-12-14 15:53:49.9235 ERROR Books - GetBook: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-12-14 15:54:26.0065 INFO Books - GetBook: Attempted Call for id: 3
+2020-12-14 15:56:41.2434 INFO Books - GetBook: Attempted Call for id: 3
+2020-12-14 15:56:46.2413 INFO Books - GetBook: Successful got record with id: 3
+2020-12-14 15:56:58.8729 INFO Books - GetBooks: Attempted Call
+2020-12-14 15:56:59.2873 INFO Books - GetBooks: Successful
+2020-12-14 16:29:34.8673 INFO Books - Update: Update Attempted on record with id: 1
+2020-12-14 16:29:34.9583 WARN Books - Update: Update failed with bad data
+2020-12-14 16:29:57.4486 INFO Books - Update: Update Attempted on record with id: 2
+2020-12-14 16:30:04.3427 WARN Books - Update: Record with id: 2 successfully updated
+2020-12-14 16:30:09.8057 INFO Books - GetBooks: Attempted Call
+2020-12-14 16:30:10.3602 INFO Books - GetBooks: Successful
+2020-12-14 16:30:19.1516 INFO Books - Update: Update Attempted on record with id: 2
+2020-12-14 16:30:19.3229 WARN Books - Update: Record with id: 2 successfully updated
+2020-12-14 16:30:22.5074 INFO Books - GetBooks: Attempted Call
+2020-12-14 16:30:22.5548 INFO Books - GetBooks: Successful
+2020-12-14 17:14:43.5494 INFO Books - Delete: Delete attempted on record with id: 3
+2020-12-14 17:14:50.9243 WARN Books - Delete: Record with id: 3 successfully deleted
+2020-12-14 17:15:00.9553 INFO Books - GetBooks: Attempted Call
+2020-12-14 17:15:01.5446 INFO Books - GetBooks: Successful
