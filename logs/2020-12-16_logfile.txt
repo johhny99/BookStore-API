@@ -1,0 +1,9 @@
+2020-12-16 11:49:58.0575 INFO Users - Login: Login attempted from user: customer13
+2020-12-16 11:49:58.4468 WARN Users - Login: customer13 not authenticated
+2020-12-16 11:50:00.5205 INFO Users - Login: Login attempted from user: customer1
+2020-12-16 11:50:01.6109 INFO Users - Login: customer1 successfully authenticated
+2020-12-16 14:08:21.8932 INFO Users - Login: Login attempted from user: admin
+2020-12-16 14:08:23.3902 INFO Users - Login: admin successfully authenticated
+2020-12-16 14:08:48.1489 INFO Authors - Create: Create Attempted
+2020-12-16 14:08:49.6416 INFO Authors - Create: Creation was successful
+2020-12-16 14:08:49.6420 INFO Authors - Create: BookStore_API.Data.Author
