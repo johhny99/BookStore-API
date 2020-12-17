@@ -1,0 +1,47 @@
+2020-12-17 10:54:14.3637 INFO Users - Login: Login attempted from user: admin@email.com
+2020-12-17 10:54:14.6289 WARN Users - Login: admin@email.com not authenticated
+2020-12-17 10:54:39.7061 INFO Users - Login: Login attempted from user: admin@email.com
+2020-12-17 10:54:39.7617 WARN Users - Login: admin@email.com not authenticated
+2020-12-17 10:54:46.3447 INFO Users - Login: Login attempted from user: customer1@email.com
+2020-12-17 10:54:46.3863 WARN Users - Login: customer1@email.com not authenticated
+2020-12-17 10:56:39.5298 INFO Users - Login: Login attempted from user: customer1@email.com
+2020-12-17 10:56:39.6309 WARN Users - Login: customer1@email.com not authenticated
+2020-12-17 10:57:18.4301 INFO Users - Login: Login attempted from user: customer1@gmail.com
+2020-12-17 10:57:18.5439 WARN Users - Login: customer1@gmail.com not authenticated
+2020-12-17 10:57:33.3902 INFO Users - Login: Login attempted from user: customer2@gmail.com
+2020-12-17 10:57:33.4614 WARN Users - Login: customer2@gmail.com not authenticated
+2020-12-17 10:58:25.8487 INFO Users - Login: Login attempted from user: customer2@gmail.com
+2020-12-17 10:59:07.9674 WARN Users - Login: customer2@gmail.com not authenticated
+2020-12-17 10:59:10.9362 INFO Users - Login: Login attempted from user: customer2@gmail.com
+2020-12-17 10:59:41.4297 WARN Users - Login: customer2@gmail.com not authenticated
+2020-12-17 11:01:13.5914 INFO Users - Register: Registration attempted for user: user@example.com
+2020-12-17 11:01:28.1633 INFO Users - Login: Login attempted from user: user@example.com
+2020-12-17 11:01:32.0151 INFO Users - Login: user@example.com successfully authenticated
+2020-12-17 11:02:38.2690 INFO Users - Login: Login attempted from user: customer2@gmail.com
+2020-12-17 11:02:42.0814 INFO Users - Login: customer2@gmail.com successfully authenticated
+2020-12-17 11:03:05.0837 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-17 11:03:05.2529 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-17 12:08:53.3167 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-17 12:08:54.9423 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-17 12:15:17.7062 INFO Users - Register: Registration attempted for user: tonanhminh1119@gmail.com
+2020-12-17 15:09:50.8372 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:09:51.1138 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:09:52.2406 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:09:52.2406 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:12:25.4375 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:12:25.6879 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:15:14.1439 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:15:14.1439 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:15:14.7057 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:15:15.2366 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:15:15.2399 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:15:15.2399 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:15:32.6727 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:15:32.9153 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:16:07.8522 INFO Users - Login: Login attempted from user: customer1@gmail.com
+2020-12-17 15:16:08.0587 INFO Users - Login: customer1@gmail.com successfully authenticated
+2020-12-17 15:16:22.6724 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-17 15:16:22.7349 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-17 15:18:24.3492 INFO Users - Register: Registration attempted for user: john@bookstore.com
+2020-12-17 15:18:32.4297 INFO Users - Login: Login attempted from user: john@bookstore.com
+2020-12-17 15:18:32.5033 INFO Users - Login: john@bookstore.com successfully authenticated
