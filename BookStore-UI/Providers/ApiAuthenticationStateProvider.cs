@@ -59,11 +59,11 @@ namespace BookStore_UI.Providers
             var authState = Task.FromResult(new AuthenticationState(user));
             NotifyAuthenticationStateChanged(authState);
         }
-        public async Task LoggedOut()
+        public void LoggedOut()
         {
             var nobody = new ClaimsPrincipal(new ClaimsIdentity());
 
-            var authState = Task.FromResult(new AuthenticationState(nobody));
+            var authState =Task.FromResult(new AuthenticationState(nobody));
             NotifyAuthenticationStateChanged(authState);
         }
 
@@ -72,6 +72,12 @@ namespace BookStore_UI.Providers
             var claims = tokenContent.Claims.ToList();
             claims.Add(new Claim(ClaimTypes.Name, tokenContent.Subject));
             return claims;
+        }
+        public async Task<string> getToken()
+        {
+            var savedToken = await _localStorage.GetItemAsync<string>("authToken");
+            var tokenContent = _tokenHandler.ReadJwtToken(savedToken);
+            return tokenContent.ToString();
         }
     }
 }

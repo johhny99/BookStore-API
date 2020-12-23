@@ -45,3 +45,18 @@
 2020-12-17 15:18:24.3492 INFO Users - Register: Registration attempted for user: john@bookstore.com
 2020-12-17 15:18:32.4297 INFO Users - Login: Login attempted from user: john@bookstore.com
 2020-12-17 15:18:32.5033 INFO Users - Login: john@bookstore.com successfully authenticated
+2020-12-17 15:33:31.6294 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:33:31.6294 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:33:31.6294 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:33:31.6294 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:33:31.6294 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:33:33.3032 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:33:33.3032 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:33:33.3032 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:33:33.3032 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:33:33.3032 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-17 15:33:51.7572 INFO Users - Register: Registration attempted for user: customer3@gmail.com
+2020-12-17 15:34:00.3062 INFO Users - Login: Login attempted from user: customer3@gmail.com
+2020-12-17 15:34:00.3931 INFO Users - Login: customer3@gmail.com successfully authenticated
+2020-12-17 15:34:10.5467 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-17 15:34:10.6009 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated

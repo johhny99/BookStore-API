@@ -1,0 +1,329 @@
+2020-12-23 10:07:57.2504 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 10:07:58.5810 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 10:23:52.7221 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 10:23:52.7221 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 10:23:53.6910 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 10:23:53.6910 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 10:23:56.0476 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 10:23:56.2499 INFO Authors - GetAuthors: Successful
+2020-12-23 10:42:16.1413 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 10:42:16.1413 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 10:42:17.2816 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 10:42:17.2816 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 10:42:20.7367 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 10:42:20.9246 INFO Authors - GetAuthors: Successful
+2020-12-23 10:42:27.8489 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 10:42:27.8719 INFO Authors - GetAuthors: Successful
+2020-12-23 10:42:30.9345 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 10:42:30.9600 INFO Authors - GetAuthors: Successful
+2020-12-23 10:55:59.2468 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 10:55:59.2468 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 10:56:00.1841 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 10:56:00.1841 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 10:56:15.0781 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 10:56:15.2453 INFO Authors - GetAuthors: Successful
+2020-12-23 11:07:42.7469 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:07:42.7469 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:07:42.7469 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:07:43.7887 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:07:43.7887 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:07:43.7887 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:17:54.9229 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:17:54.9229 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:17:54.9229 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:17:55.8785 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:17:55.8785 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:17:55.8785 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:17:58.9340 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 11:17:59.1057 INFO Authors - GetAuthors: Successful
+2020-12-23 11:18:00.5032 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 11:18:00.5703 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 11:18:25.1685 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 11:18:25.2060 INFO Authors - GetAuthors: Successful
+2020-12-23 11:20:44.7923 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:20:44.7923 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:20:44.7923 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:20:44.7923 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:20:45.1067 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:20:45.1258 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:20:46.1486 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:20:46.1486 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:20:46.1486 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:20:46.1486 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:20:46.1486 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:20:46.1486 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:20:57.3802 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 11:20:57.4924 INFO Authors - GetAuthors: Successful
+2020-12-23 11:20:58.9987 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 11:20:59.0491 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 11:21:03.2045 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 11:21:03.2319 INFO Authors - GetAuthors: Successful
+2020-12-23 11:40:05.0733 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:40:05.0733 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:40:05.0733 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:40:06.1709 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:40:06.1709 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:40:06.1709 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:46:10.2661 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:46:10.2661 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:46:10.2661 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 11:46:11.3424 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:46:11.3424 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 11:46:11.3424 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:18:20.1532 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:18:20.1532 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:18:20.1532 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:18:21.7168 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:18:21.7168 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:18:21.7168 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:18:56.9824 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:18:57.1733 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:19:19.8920 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:19:19.9921 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:20:17.8547 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:20:17.8547 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:20:17.8547 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:20:18.5712 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:20:18.5712 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:20:18.5712 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 13:20:28.4144 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 13:20:28.4912 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 15:04:19.2872 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 15:04:19.2872 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 15:04:19.2872 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 15:04:20.3314 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 15:04:20.3314 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 15:04:20.3314 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 15:04:24.5394 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:04:24.7484 INFO Authors - GetAuthors: Successful
+2020-12-23 15:04:27.1417 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 15:04:27.2323 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 15:08:50.9796 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 15:08:50.9796 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 15:08:50.9796 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 15:08:52.1367 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 15:08:52.1367 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 15:08:52.1367 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 15:08:55.7109 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:08:55.8486 INFO Authors - GetAuthors: Successful
+2020-12-23 15:08:57.2127 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 15:08:57.2717 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 15:09:36.2172 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:09:36.2793 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:09:38.7369 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:09:38.7604 INFO Authors - GetAuthors: Successful
+2020-12-23 15:09:39.7794 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 15:09:39.8322 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 15:09:46.2983 INFO Authors - Update: Update Attempted on record with id: 1
+2020-12-23 15:09:47.5795 WARN Authors - Update: Record with id: 1 successfully updated
+2020-12-23 15:09:52.7008 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:09:52.7349 INFO Authors - GetAuthors: Successful
+2020-12-23 15:09:56.3171 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 15:09:56.3431 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 15:09:58.4868 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:09:58.4978 INFO Authors - GetAuthors: Successful
+2020-12-23 15:09:59.4348 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 15:09:59.4348 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 15:10:00.3695 INFO Authors - Update: Update Attempted on record with id: 1
+2020-12-23 15:10:00.3888 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:10:00.4321 WARN Authors - Update: Record with id: 1 successfully updated
+2020-12-23 15:10:00.4415 INFO Authors - GetAuthors: Successful
+2020-12-23 15:30:04.2916 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:30:04.2916 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:30:04.2916 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:30:05.5232 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:30:05.5232 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:30:05.5232 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:30:08.7235 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:30:09.0857 INFO Authors - GetAuthors: Successful
+2020-12-23 15:30:11.8514 INFO Authors - GetAuthor: Attempted Call for id: 4
+2020-12-23 15:30:11.9689 INFO Authors - GetAuthor: Successful got record with id: 4
+2020-12-23 15:30:36.1730 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:30:36.2312 INFO Authors - GetAuthors: Successful
+2020-12-23 15:30:37.7302 INFO Authors - GetAuthor: Attempted Call for id: 4
+2020-12-23 15:30:37.7472 INFO Authors - GetAuthor: Successful got record with id: 4
+2020-12-23 15:30:38.6500 INFO Authors - Delete: Delete attempted on record with id: 4
+2020-12-23 15:30:39.8247 WARN Authors - Delete: Record with id: 4 successfully deleted
+2020-12-23 15:30:39.8841 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:30:39.9750 INFO Authors - GetAuthors: Successful
+2020-12-23 15:54:07.6670 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:54:07.6670 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:54:07.6670 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:54:08.7483 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:54:08.7483 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:54:08.7483 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:54:12.1898 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:54:12.3368 INFO Authors - GetAuthors: Successful
+2020-12-23 15:57:41.3447 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:57:41.3447 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:57:41.3447 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:57:42.1979 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:57:42.1979 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:57:42.1979 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:58:26.6154 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:58:26.7851 INFO Authors - GetAuthors: Successful
+2020-12-23 15:58:36.5661 INFO Authors - Create: Create Attempted
+2020-12-23 15:58:37.5077 INFO Authors - Create: Creation was successful
+2020-12-23 15:58:37.5077 INFO Authors - Create: BookStore_API.Data.Author
+2020-12-23 15:58:44.4083 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:58:44.4239 INFO Authors - GetAuthors: Successful
+2020-12-23 15:58:49.5964 INFO Authors - GetAuthor: Attempted Call for id: 5
+2020-12-23 15:58:49.6816 INFO Authors - GetAuthor: Successful got record with id: 5
+2020-12-23 15:58:50.8593 INFO Authors - Delete: Delete attempted on record with id: 5
+2020-12-23 15:58:51.0084 WARN Authors - Delete: Record with id: 5 successfully deleted
+2020-12-23 15:58:51.0741 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:58:51.0741 INFO Authors - GetAuthors: Successful
+2020-12-23 15:58:52.0334 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 15:58:52.0547 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 15:58:52.9081 INFO Authors - Delete: Delete attempted on record with id: 1
+2020-12-23 15:58:54.2213 ERROR Authors - Delete: An error occurred while updating the entries. See the inner exception for details. - Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_Books_Authors". The conflict occurred in database "BookStore", table "dbo.Books", column 'AuthorId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:2aa2fb11-c0fb-44f5-b7dd-ac47d2513191
+Error Number:547,State:0,Class:16
+2020-12-23 15:59:21.6006 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 15:59:21.6717 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 15:59:23.0880 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 15:59:23.1160 INFO Authors - GetAuthors: Successful
+2020-12-23 15:59:25.0728 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 15:59:25.0862 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 15:59:26.6363 INFO Authors - Delete: Delete attempted on record with id: 1
+2020-12-23 15:59:27.0061 ERROR Authors - Delete: An error occurred while updating the entries. See the inner exception for details. - Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_Books_Authors". The conflict occurred in database "BookStore", table "dbo.Books", column 'AuthorId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:2aa2fb11-c0fb-44f5-b7dd-ac47d2513191
+Error Number:547,State:0,Class:16
+2020-12-23 15:59:40.1276 INFO Authors - Delete: Delete attempted on record with id: 1
+2020-12-23 15:59:40.5078 ERROR Authors - Delete: An error occurred while updating the entries. See the inner exception for details. - Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_Books_Authors". The conflict occurred in database "BookStore", table "dbo.Books", column 'AuthorId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:2aa2fb11-c0fb-44f5-b7dd-ac47d2513191
+Error Number:547,State:0,Class:16
+2020-12-23 16:00:21.0679 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:00:21.1186 INFO Authors - GetAuthors: Successful
+2020-12-23 16:00:27.3505 INFO Authors - Create: Create Attempted
+2020-12-23 16:00:27.4351 INFO Authors - Create: Creation was successful
+2020-12-23 16:00:27.4351 INFO Authors - Create: BookStore_API.Data.Author
+2020-12-23 16:00:27.5183 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:00:27.5183 INFO Authors - GetAuthors: Successful
+2020-12-23 16:00:30.8495 INFO Authors - GetAuthor: Attempted Call for id: 6
+2020-12-23 16:00:30.8673 INFO Authors - GetAuthor: Successful got record with id: 6
+2020-12-23 16:00:31.7813 INFO Authors - Delete: Delete attempted on record with id: 6
+2020-12-23 16:00:31.8198 WARN Authors - Delete: Record with id: 6 successfully deleted
+2020-12-23 16:00:35.1745 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:00:35.1745 INFO Authors - GetAuthors: Successful
+2020-12-23 16:00:38.3056 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 16:00:38.3195 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 16:00:39.4539 INFO Authors - Delete: Delete attempted on record with id: 1
+2020-12-23 16:00:39.9259 ERROR Authors - Delete: An error occurred while updating the entries. See the inner exception for details. - Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_Books_Authors". The conflict occurred in database "BookStore", table "dbo.Books", column 'AuthorId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:2aa2fb11-c0fb-44f5-b7dd-ac47d2513191
+Error Number:547,State:0,Class:16
+2020-12-23 16:02:22.5175 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 16:02:23.2414 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 16:02:25.8118 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:02:25.9392 INFO Authors - GetAuthors: Successful
+2020-12-23 16:02:26.8805 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 16:02:26.9238 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 16:02:28.0446 INFO Authors - Delete: Delete attempted on record with id: 1
+2020-12-23 16:03:52.1458 ERROR Authors - Delete: An error occurred while updating the entries. See the inner exception for details. - Microsoft.Data.SqlClient.SqlException (0x80131904): The DELETE statement conflicted with the REFERENCE constraint "FK_Books_Authors". The conflict occurred in database "BookStore", table "dbo.Books", column 'AuthorId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:a8b93683-0345-43f5-a0e2-e821d83811fd
+Error Number:547,State:0,Class:16
+2020-12-23 16:04:01.6025 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:04:01.8069 INFO Authors - GetAuthors: Successful
+2020-12-23 16:04:03.2489 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 16:04:03.3534 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 16:08:27.7919 INFO Users - Login: Login attempted from user: admin@bookstore.com
+2020-12-23 16:08:28.6836 INFO Users - Login: admin@bookstore.com successfully authenticated
+2020-12-23 16:08:31.4532 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:08:31.6338 INFO Authors - GetAuthors: Successful
+2020-12-23 16:08:32.7186 INFO Authors - GetAuthor: Attempted Call for id: 1
+2020-12-23 16:08:32.7702 INFO Authors - GetAuthor: Successful got record with id: 1
+2020-12-23 16:08:33.7073 INFO Authors - Delete: Delete attempted on record with id: 1
+2020-12-23 16:08:38.2973 WARN Authors - Delete: Record with id: 1 successfully deleted
+2020-12-23 16:08:38.4034 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:08:38.4034 INFO Authors - GetAuthors: Successful
+2020-12-23 16:09:03.9466 INFO Authors - Create: Create Attempted
+2020-12-23 16:09:04.0940 INFO Authors - Create: Creation was successful
+2020-12-23 16:09:04.0940 INFO Authors - Create: BookStore_API.Data.Author
+2020-12-23 16:09:04.1886 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:09:04.2132 INFO Authors - GetAuthors: Successful
+2020-12-23 16:22:27.2779 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 16:22:28.2572 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 16:22:28.6802 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 16:22:28.7925 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 16:22:32.5722 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:22:32.7385 INFO Authors - GetAuthors: Successful
+2020-12-23 16:22:46.1323 INFO Authors - GetAuthor: Attempted Call for id: 7
+2020-12-23 16:22:46.1973 INFO Authors - GetAuthor: Successful got record with id: 7
+2020-12-23 16:23:03.7548 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:23:03.7828 INFO Authors - GetAuthors: Successful
+2020-12-23 16:24:27.7795 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 16:24:28.4623 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 16:24:31.7798 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:24:31.9761 INFO Authors - GetAuthors: Successful
+2020-12-23 16:24:33.4090 INFO Authors - GetAuthor: Attempted Call for id: 7
+2020-12-23 16:24:33.4581 INFO Authors - GetAuthor: Successful got record with id: 7
+2020-12-23 16:33:10.9833 INFO Users - Login: Login attempted from user: tonanhminh1119@gmail.com
+2020-12-23 16:33:12.2117 INFO Users - Login: tonanhminh1119@gmail.com successfully authenticated
+2020-12-23 16:33:17.8557 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:33:18.9407 INFO Authors - GetAuthors: Successful
+2020-12-23 16:33:20.2266 INFO Authors - GetAuthor: Attempted Call for id: 7
+2020-12-23 16:33:20.3864 INFO Authors - GetAuthor: Successful got record with id: 7
+2020-12-23 16:33:33.8734 INFO Authors - GetAuthors: Attempted Call
+2020-12-23 16:33:33.9285 INFO Authors - GetAuthors: Successful
+2020-12-23 16:33:58.5122 INFO Authors - GetAuthor: Attempted Call for id: 7
+2020-12-23 16:33:58.5796 INFO Authors - GetAuthor: Successful got record with id: 7

@@ -28,6 +28,10 @@ namespace BookStore_UI.Services
             _localStorage = localStorage;
             _authenticationStateProvider = authenticationStateProvider;
         }
+        public async Task<string> getToken()
+        {
+            return await ((ApiAuthenticationStateProvider)_authenticationStateProvider).getToken();
+        }
 
         public async Task<bool> Login(LoginModel user)
         {
@@ -48,7 +52,7 @@ namespace BookStore_UI.Services
             var token= JsonConvert.DeserializeObject<TokenResponse>(content);
 
             //Store the token
-            await _localStorage.SetItemAsync("authToken", token.Token);
+            await _localStorage.SetItemAsync("authToken", token.Token.ToString());
 
             //Change auth state of app
             await ((ApiAuthenticationStateProvider)_authenticationStateProvider).LoggedIn();
@@ -61,7 +65,10 @@ namespace BookStore_UI.Services
         public async Task Logout()
         {
             await _localStorage.RemoveItemAsync("authToken");
-            await ((ApiAuthenticationStateProvider)_authenticationStateProvider).LoggedOut();
+            await _localStorage.RemoveItemAsync("LoginName");
+            var client = _client.CreateClient();
+            client.DefaultRequestHeaders.Authorization = null;
+            ((ApiAuthenticationStateProvider)_authenticationStateProvider).LoggedOut();
         }
 
         public async Task<bool> Register(RegistrationModel user)
