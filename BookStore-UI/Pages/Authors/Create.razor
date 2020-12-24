@@ -2,6 +2,7 @@
 @attribute [Authorize(Roles = "Administrator")]
 @inject IAuthorRepository _repo
 @inject NavigationManager _navManager
+@inject IToastService _toastService
 
 <h3 class="card-title">Create Author</h3>
 <hr />
@@ -27,7 +28,7 @@
     </div>
     <button class="btn btn-primary" type="submit">
         <span class="oi oi-pencil"></span>
-        Submit change
+        Craete Author
     </button>
     <button class="btn btn-outline-primary" @onclick="BackToList">
         <span class="oi oi-media-skip-backward"></span>
@@ -48,6 +49,7 @@
         isSussess = await _repo.Create(Endpoints.AuthorsEndpoint, Model);
         if (isSussess)
         {
+            _toastService.ShowSuccess("Author created successfully");
             BackToList();
         }
     }
