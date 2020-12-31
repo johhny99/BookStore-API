@@ -72,29 +72,32 @@
 @code {
     private Book Model = new Book();
     private IList<Author> authors;
-    private IFileListEntry file;
+    private IBrowserFile file;
     bool isSussess = true;
     bool isInvalidFileType = false;
     private string imageDataURL;
-    private MemoryStream msFile;
+    private Stream msFile;
 
     protected async override Task OnInitializedAsync()
     {
         authors = await _authorRepo.Get(Endpoints.AuthorsEndpoint);
     }
-    private async Task HanldeFileSelection(IFileListEntry[] files)
+    private async Task HanldeFileSelection(InputFileChangeEventArgs e)
     {
-        file = files.FirstOrDefault();
+        file = e.File;
         if (file != null)
         {
             var ext = Path.GetExtension(file.Name);
             if (ext.Contains("jpg") || ext.Contains("png") || ext.Contains("jpeg"))
             {
-                msFile = new MemoryStream();
-                await file.Data.CopyToAsync(msFile);
+                msFile = file.OpenReadStream();
 
-                var reader = new StreamReader(file.Data);
-                var imageBase64Data = Convert.ToBase64String(msFile.ToArray());
+                var resizedImgFile = await file.RequestImageFileAsync("image/png", 100, 100);
+                var buffer = new byte[resizedImgFile.Size];
+                await resizedImgFile.OpenReadStream().ReadAsync(buffer);
+
+                var imageBase64Data = Convert.ToBase64String(buffer);
+
                 imageDataURL = string.Format("data:image/png;base64,{0}", imageBase64Data);
                 isInvalidFileType = false;
             }
@@ -124,7 +127,9 @@
                 var picName = $"{picId}{ext}";
 
                 Model.Image = picName;
-                Model.File = Convert.ToBase64String(msFile.ToArray());
+                var buffer = new byte[file.Size];
+                await file.OpenReadStream().ReadAsync(buffer);
+                Model.File = Convert.ToBase64String(buffer);
             }
 
             isSussess = await _repo.Create(Endpoints.BooksEndpoint, Model);

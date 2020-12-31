@@ -27,36 +27,59 @@ namespace BookStore_UI.Services
             }
         }
 
-        public async Task UploadFile(IFileListEntry file, string picName)
+        //public async Task UploadFile(IFileListEntry file, string picName)
+        //{
+        //    try
+        //    {
+        //        var ms = new MemoryStream();
+        //        await file.Data.CopyToAsync(ms);
+
+        //        var path = $"{_env.WebRootPath}\\uploads\\{picName}";
+
+        //        using (FileStream fs = new FileStream(path, FileMode.Create))
+        //        {
+        //            ms.WriteTo(fs);
+        //        }
+        //    }
+        //    catch (Exception e)
+        //    {
+
+        //        throw;
+        //    }
+        //}
+
+        //public void UploadFile(IFileListEntry file, MemoryStream msFile, string picName)
+        //{
+        //    try
+        //    {
+        //        var path = $"{_env.WebRootPath}\\uploads\\{picName}";
+
+        //        using (FileStream fs = new FileStream(path, FileMode.Create))
+        //        {
+        //            msFile.WriteTo(fs);
+        //        }
+
+        //    }
+        //    catch (Exception ex)
+        //    {
+
+        //        throw;
+        //    }
+        //}
+        public async Task UploadFile(Stream msFile, string picName)
         {
             try
             {
-                var ms = new MemoryStream();
-                await file.Data.CopyToAsync(ms);
-
                 var path = $"{_env.WebRootPath}\\uploads\\{picName}";
-
+                var buffer = new byte[4 * 1096];
+                int byteRead;
+                double totalRead = 0;
                 using (FileStream fs = new FileStream(path, FileMode.Create))
                 {
-                    ms.WriteTo(fs);
-                }
-            }
-            catch (Exception e)
-            {
-
-                throw;
-            }
-        }
-
-        public void UploadFile(IFileListEntry file, MemoryStream msFile, string picName)
-        {
-            try
-            {
-                var path = $"{_env.WebRootPath}\\uploads\\{picName}";
-
-                using (FileStream fs = new FileStream(path, FileMode.Create))
-                {
-                    msFile.WriteTo(fs);
+                    while((byteRead=await msFile.ReadAsync(buffer)) != 0){
+                        totalRead += byteRead;
+                        await fs.WriteAsync(buffer);
+                    }
                 }
 
             }
@@ -66,5 +89,5 @@ namespace BookStore_UI.Services
                 throw;
             }
         }
-    }
+    }   
 }
