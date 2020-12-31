@@ -28,8 +28,8 @@ namespace BookStore_UI.WASM
 
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 
-            //_ = new JwtHeader();
-            //_ = new JwtPayload();
+            _ = new JwtHeader();
+            _ = new JwtPayload();
 
             builder.Services.AddBlazoredLocalStorage();
             builder.Services.AddBlazoredToast();
